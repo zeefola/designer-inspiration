@@ -1,0 +1,13 @@
+@import url('../../../css2-9');
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "Bebas Neue";
+}
+
+h2{
+	letter-spacing: 10px;
+}
+h5{
+	font-family: Roboto;
+	font-size: 16px;
+}
